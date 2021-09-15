@@ -3,4 +3,4 @@ My Python ML Practices
 
 PCA - 3 compnent for breast cancer dataset
 
-![alt text](https://github.com/arshisal/Python_ML/blob/main/PCA_3d.png)
+![alt text](https://github.com/arshisal/Python_ML/blob/main/PCA%20Practice.md)
